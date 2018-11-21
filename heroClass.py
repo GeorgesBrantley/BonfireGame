@@ -3,7 +3,7 @@
 
 class hero:
     name = ""
-    heroID = ""
+    hID = ""
     level = 1
     xp = 0
     nextLevel = 3
